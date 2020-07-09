@@ -9,6 +9,9 @@ If you are using this resource please cite:
   year={2017},
   organization={IEEE}
 }
+
+
+
 @inproceedings{satapathy2019seq2seq,
   title={Seq2seq deep learning models for microtext normalization},
   author={Satapathy, Ranjan and Li, Yang and Cavallari, Sandro and Cambria, Erik},
@@ -17,6 +20,8 @@ If you are using this resource please cite:
   year={2019},
   organization={IEEE}
 }
+
+
 @inproceedings{satapathy2019phonsenticnet,
   title={Phonsenticnet: A cognitive approach to microtext normalization for concept-level sentiment analysis},
   author={Satapathy, Ranjan and Singh, Aalind and Cambria, Erik},
