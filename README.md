@@ -1,7 +1,7 @@
 # microtext-lexicon
 # If you are using this resource please cite:
 
-
+```
 @inproceedings{satapathy2017phonetic,
   title={Phonetic-based microtext normalization for twitter sentiment analysis},
   author={Satapathy, Ranjan and Guerreiro, Claudia and Chaturvedi, Iti and Cambria, Erik},
@@ -10,9 +10,9 @@
   year={2017},
   organization={IEEE}
 }
+```
 
-
-
+```
 @inproceedings{satapathy2019seq2seq,
   title={Seq2seq deep learning models for microtext normalization},
   author={Satapathy, Ranjan and Li, Yang and Cavallari, Sandro and Cambria, Erik},
@@ -21,8 +21,8 @@
   year={2019},
   organization={IEEE}
 }
-
-
+```
+```
 @inproceedings{satapathy2019phonsenticnet,
   title={Phonsenticnet: A cognitive approach to microtext normalization for concept-level sentiment analysis},
   author={Satapathy, Ranjan and Singh, Aalind and Cambria, Erik},
@@ -31,3 +31,4 @@
   year={2019},
   organization={Springer}
 }
+```
