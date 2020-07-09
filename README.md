@@ -1,6 +1,7 @@
 # microtext-lexicon
-Lexicon for microtext normalization 
-If you are using this resource please cite:
+# If you are using this resource please cite:
+
+
 @inproceedings{satapathy2017phonetic,
   title={Phonetic-based microtext normalization for twitter sentiment analysis},
   author={Satapathy, Ranjan and Guerreiro, Claudia and Chaturvedi, Iti and Cambria, Erik},
